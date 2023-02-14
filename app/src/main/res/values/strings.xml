@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roller RKD</string>
+    <string name="roll">Roll</string>
+    <string name="die_1">Die 1: 6 faces</string>
+    <string name="die_2">Die 2: 10 faces</string>
+</resources>
